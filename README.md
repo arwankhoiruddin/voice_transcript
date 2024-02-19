@@ -27,6 +27,18 @@ further processing and analysis of the audio content.
 Alan Watts - The Dream of Life (No Music): https://www.youtube.com/watch?v=npgVq7-Fioo&t=51s
 
 
+# Results
+
+For `watts_cropped.wav`, it will produce following outputs:
+
+```
+Chunk 1 Text: let's suppose that you were able every night to dream Any Dream you wanted to
+Chunk 2 Text: 75 years of time or any length of time you wanted to have
+Chunk 3 Text: and you would naturally as you began on this adventure of dreams you would fulfill all your
+Chunk 4 Text: 75 years of total pleasure each you would say wow that was pretty great
+```
+
+
 # Limitations
 
 This code works only on `no music` audio. Need to do more pre processing for audio with music
